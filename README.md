@@ -5,7 +5,7 @@ At the moment it only supports fireworks, but I plan to add more effects in the 
 
 # FAQ
 * Q. Can I use VSTi?
-  * A. Yes. Please download [loopMIDI(Tobias Erichsen)](https://www.tobias-erichsen.de/software/loopmidi.html).
+  * A. Yes. Please download [loopMIDI(Tobias Erichsen)](https://www.tobias-erichsen.de/software/loopmidi.html){:target="_blank"}.
 * Q. Can I make the window go full-screen?
   * A. Yes. Please press Alt + A.
 * Q. Can I load MIDI(SMF)file?
